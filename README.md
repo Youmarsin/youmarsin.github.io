@@ -1,2 +1,2 @@
-# youmarsin.guthub.io
+# youmarsin.github.io
 My first published web-site.
