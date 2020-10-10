@@ -1,0 +1,44 @@
+.header{
+	font-family: 'Marck Script', cursive;
+	font-size: 40px;
+	text-align: center;
+	color: #333;
+	margin-top: 190px;
+	margin-bottom: 190px;
+}
+.text-1{
+	display: inline-block;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 190px;
+	text-indent: 25px;
+}
+.text-2{
+	display: inline-block;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+	margin-top: 80px;
+}
+.photos1{
+	margin-bottom: 150px;
+	text-align: center;
+}
+.photos2{
+	margin-top: 150px;
+	text-align: center;
+}
+.photos3{
+	margin-top: 150px;
+	text-align: center;
+	margin-bottom: 200px;
+}
+.end{
+	font-family: 'Marck Script', cursive;
+	text-align: center; 
+	font-size: 40px;
+	margin-bottom: 200px;
+}
